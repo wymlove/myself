@@ -1,6 +1,8 @@
 /*修改原来的*/
 .mui-bar-tab~.mui-content {padding-bottom: 0;}
 .mui-content {background-color: inherit;}
+.mui-segmented-control{border: none;}
+.mui-segmented-control .mui-control-item{border-left: none;}
 /*整体背景图*/
 body,html{background: url(../images/bg2.png) no-repeat center center;width: 100%;height: 100%;}
 /*文字滚动效果css*/
@@ -14,9 +16,24 @@ body,html{background: url(../images/bg2.png) no-repeat center center;width: 100%
 #myself-5>p{margin-top: 0.8rem;font-size: 0.24rem;color: #FFFFFF;}
 /*头像*/
 #myself-5>.head-portrait{width: 2rem;height: 2rem;border-radius: 50%;background: url(../images/IMG_0373.JPG) no-repeat center center;background-size: 100%;position: relative;left: 50%;top: 0.6rem;margin-left: -1rem;}
+/*联系电话*/
+#item1{text-align: left;}
+#item1>.call-me{margin-top: 0.2rem;}
+#item1>.call-me>span{width: 20%;text-align: center;}
+#item1>.call-me>p{display: inline-block;color: #DDDDDD;}
 
-
-
+			.chart {
+				height: 200px;
+				margin: 0px;
+				padding: 0px;
+			}
+			h5 {
+				margin-top: 30px;
+				font-weight: bold;
+			}
+			h5:first-child {
+				margin-top: 15px;
+			}
 
 
 
