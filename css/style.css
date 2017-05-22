@@ -1,0 +1,60 @@
+/*修改原来的*/
+.mui-bar-tab~.mui-content {padding-bottom: 0;}
+.mui-content {background-color: inherit;}
+/*整体背景图*/
+body,html{background: url(../images/bg2.png) no-repeat center center;width: 100%;height: 100%;}
+/*文字滚动效果css*/
+.lovebing-marquee-parent {overflow: hidden;}
+.lovebing-marquee-container {display: inline-block;overflow: hidden;}
+.lovebing-marquee {display: inline-block;width: 100000px;text-align: left;left: 0;}
+/*myself*/
+#myself-5{text-align: center;}
+#myself-5>.top-nav>span{display: inline-block;width: 10%;color: #FFFFFF;}
+#myself-5>.top-nav>h5{display: inline-block;width: 76%;color: #FFFFFF;text-align: center;line-height: 0.48rem;font-size: 0.28rem;}
+#myself-5>p{margin-top: 0.8rem;font-size: 0.24rem;color: #FFFFFF;}
+/*头像*/
+#myself-5>.head-portrait{width: 2rem;height: 2rem;border-radius: 50%;background: url(../images/IMG_0373.JPG) no-repeat center center;background-size: 100%;position: relative;left: 50%;top: 0.6rem;margin-left: -1rem;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
